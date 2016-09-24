@@ -32,10 +32,10 @@ TO RUN IN PYCHARM OR ANY OTHER IDE
 
 
 USING THE BASIC SERVER:
- 	you can use 3 commands right now: list, retr X, and quit
-	retr x: type "retr x" with "x" being a number 1-10. this will send the client the email at that index.
-	list: type "list". this will send the client all the emails in the Database
-	quit: this will kill the client and the server
+ 	-you can use 3 commands right now: list, retr X, and quit
+	-retr x: type "retr x" with "x" being a number 1-10. this will send the client the email at that index.
+	-list: type "list". this will send the client all the emails in the Database
+	-quit: this will kill the client and the server
 
 expanding upon the code: you can easily add new commands based on the POP3 sytax in the server code.
 
