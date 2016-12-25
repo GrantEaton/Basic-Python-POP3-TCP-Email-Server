@@ -21,7 +21,7 @@ TO RUN IN TERMINAL:
 
 TO RUN IN PYCHARM OR ANY OTHER IDE
 
-1. download "fullRepo.zip"
+1. download the full repo as a zip.
 2. unzip files to your IDE's workspace directory or drag and drop it into a new project.
 	*NOTE: (MAKE SURE THE EMAILDB.TXT FILE GOES IN THIS DIRECTORY)
 3. open up the files in the IDE
