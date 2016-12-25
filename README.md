@@ -6,7 +6,7 @@ This is a basic Python POP3 TCP email server. It can only do three commands: ret
 TO RUN IN TERMINAL: 
 (note i havent tested these exact commands thanks to my windows computer, but you should be able to run this with basic linux experience).
 
-1. download "fullRepo.zip"
+1. download the full repo as a zip.
 2. unzip files to directory you want (MAKE SURE THE EMAILDB.TXT FILE GOES IN THIS DIRECTORY)
 3. cd into your directory with the files 
 	ex. cd users/documents/"directoryIWant"
